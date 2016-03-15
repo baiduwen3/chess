@@ -1,0 +1,23 @@
+今天日期：【2006-04-10】, 项目名称：J11,  考评人：汪唯
+目录名称: I:\chess,          总有效代码行数: 2437
+	【.CPP 文件总个数:】 15 个,  总注释率(*.H和*.CPP)：26.3％
+
+    其中，最小注释率及CPP文件：  6.7％TranspositionTable.cpp
+    其中，最大注释率及CPP文件： 95.0％chess.cpp
+
+=== 总有效行数： 注释行数: 	 注释率:  	    	创建人：  文件主要功能 ===
+(01)    104 行,     7 行, :   6.7％, TranspositionTable.cpp  , 	
+(02)     81 行,     8 行, :   9.9％, NegaScout_TT_HH.cpp     , 	
+(03)     37 行,     4 行, :  10.8％, AlphaBetaEngine.cpp     , 	
+(04)     29 行,     4 行, :  13.8％, HistoryHeuristic.cpp    , 	
+(05)     51 行,     8 行, :  15.7％, AlphaBeta_HH.cpp        , 	
+(06)    351 行,    57 行, :  16.2％, Eveluation.cpp          , 	
+(07)     58 行,    12 行, :  20.7％, AlphaBetaAndTT.cpp      , 	
+(08)     52 行,    11 行, :  21.2％, PVS_Engine.cpp          , 	
+(09)    371 行,    83 行, :  22.4％, MoveGenerator.cpp       , 	
+(10)     42 行,    12 行, :  28.6％, SearchEngine.cpp        , 	
+(11)    286 行,    87 行, :  30.4％, chessDlg.cpp            , 	
+(12)     38 行,    12 行, :  31.6％, NegamaxEngine.cpp       , 	
+(13)     25 行,    19 行, :  76.0％, NewGame.cpp             , 	
+(14)     20 行,    19 行, :  95.0％, chess.cpp               , 	
+(15)      0 行,     3 行, : 150.0％, StdAfx.cpp              , 	
